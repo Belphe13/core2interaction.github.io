@@ -27,7 +27,8 @@ description: >-                        # used by seo meta and the atom feed
   Class Website for Core 2: Interaction Section G Studio & Lab at Communications Design, Parsons School of Design
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://core2interaction.github.io'
+# url: 'https://core2interaction.github.io'
+url: 'https://core2lab.herokuapp.com/'
 
 github:
   username: belphe13             # change to your github username
@@ -38,15 +39,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Lai Xu + Lilan Yang
+  name: Lilan Yang
   email:             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/core2interaction      # change to your github homepage
+    - https://github.com/lilanyang      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/lilanyang
 
 google_site_verification:               # fill in to your verification string
 
