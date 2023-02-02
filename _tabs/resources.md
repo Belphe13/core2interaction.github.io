@@ -11,6 +11,7 @@ order: 4
 - [Git the Sample Guide](http://rogerdudler.github.io/git-guide/)
 - [Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
 ## Text Editors
 - [Visual Studio Code](https://code.visualstudio.com/)

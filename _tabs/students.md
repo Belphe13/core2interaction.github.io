@@ -6,7 +6,7 @@ order: 3
 
 <p>
 {% for student in site.data.students %}
-    <a href="https://github.com/{{ student.github }}">
+    <a href="https://{{ student.github }}.github.io">
       {{ student.name }}<br>
     </a>
 {% endfor %}
