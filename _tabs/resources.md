@@ -24,3 +24,7 @@ order: 4
 ## Others
 - [Are.na](https://www.are.na/)
 - [BuiltWith](https://builtwith.com/)
+
+## Past Semesters
+- [SP2023 Kick Off](https://paper.dropbox.com/doc/SP2023-Core-2-Interaction-Kick-Off-YHXGUI3m6wY84iwUxyIFO)
+- [SP2022](https://cis22.labud.nyc)
